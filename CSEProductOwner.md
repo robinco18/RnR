@@ -6,6 +6,54 @@ In addition, CSE has a unique business model in which we collaboratively defined
 
 This page summarizes how Product Onwership is tailored to fit the CSE business model.
 
+## Project Definition
+
+The most critical role for the Product Owner is assuring the project is appropriately scoped to meet the customer's business and technical goals. The first step is to make sure that all parties agree on the problems that need to be solved and to define what a successful solution looks like.
+
+The Product Owner is accountable for the following items, which must be included in the project Game Plan:
+
+* **Problem Statement(s):** One or more statements clearly articulating the essential problem(s) that the milestone must address to be declared a success.  Uses implementation-free, non-ambiguous language that minimizes potential for different interpretations.
+
+* **Success Criteria:** Statements that must be true by the close of the engagement in order for the engagement to be considered as a "success".  Includes "success" as defined by the customer as well as Microsoft (i.e., meeting CSE standards for quality engineering that can be successfully handed over to customer engineers).  Success criteria also include any customer-imposed technical, time or procedural constraints that must be observed in planning and executing the project.
+
+* **Definition of Done:** SMART<sup>[1](#smart)</sup> criteria considered as essential to achieve a "minimum viable product" in the current milestone.  These will be derived from the success criteria for the engagement and often include specific measurable targets to ensure that MVP engineering requirements are fulfilled.
+
+## Backlog Management
+
+Understanding and framing customer business goals in terms that are understandable and actionable by an engineering team is a complex task that typcially takes many years of experience to master.
+
+A well-crafted backlog defines, in an implementation-free manner, the user- and business-centric stories that must be completed in order to successfully complete the project. and business-centric the functionality that must be enabled to successfully complete the project. The stories are stack-ranked from 1-n so that the developers have clear guidance on which ones should be completed first.
+
+### Minimum Viable Product (MVP)
+
+The concept of a Minimum Viable Product (MVP)<sup>[2](#mvp) is a powerful tool to help the entire project team identify and focus on the most important requirements and stories.
+
+It is natural and inevitable that the team will discuss a very broad set of requirments and features while planning a project. Asking the question, "Is this an MVP requirement?" is a great tool for identiifying the most important requirements that need to be addressed immediately versus those that can be addressed later in the project.
+
+When time and resources are constrained, an MVP discussion is critical to winnowing down project to the minimum amount of work.
+
+And even when time and resources feel ample, the MVP question is still valuable in terms of identifying the most important requriements.
+
+### Implementation Free User Stories
+
+It is critical that user stories not include any assumptions about the implementation, as this provides the developers with the flexibility to define solutions that the Product Owner may not have considered. 
+
+It is a maxim of good product ownership, that POs focus on the "what and why" without getting into the "how." 
+
+Keeping stories implementation free can be very challenging, as requirements are often discussed, even by developers, with assumptions about features and technical approaches. A good Product Owner is able to step back and ask, "What is the underlying requirement that is being discussed?" Once the requirement is understood, it becomes much easier to write an implementation free story that explains what a user needs to achieve and why.
+
+### Collaborative Backlog Management
+
+Successful backlog creation and management requires substantial collaboration with the developers. A good practice is to review and groom the backlog collaboratively. Successful collaboration approaches include:
+
+* Product Owner and Tech Lead review and edit the backlog together.
+
+* Product Owner edits backlog collaboratively with the developers responsible for implementing the stories being reviewed.
+
+* Product Owner leads a group backlog grooming session with the full team, which enables broad and inclusive discussion, and helps drive better understanding and awareness across the project.
+
+All methods can be used on the same project.
+
 ## Identifying key stakeholders and influencers
 
 Scrum Product Owners are always expected to identify key stakeholders and influencers. In CSE, this means:
@@ -24,37 +72,14 @@ Scrum Product Owners are always expected to identify key stakeholders and influe
 
 * Relevant contacts from the Azure product teams and other Azure teams, such as Azure Global.
 
-## Artifacts
+## Risk Management
 
- identifying key people at the customer, in CTE, 
+In collaboration with the full project team, the Product Owner should  proactively identify, track and drive mitigation of any issues that risk successful completion of the project (i.e. definition of done and success criteria) within the planned time and staffing constraints.
 
-Stakeholder Map	Game Plan Artifact	Envisioning, ADS, Game Planning		List of key participants (internal/external) in the engagement, their roles (formal and informal) on the project, expectations for involvement and communication
+The PO should also identify intangible and indirect risks such as those related to customer relationship/trust building and potential for follow-on engagement(s) with the account.
 
-Problem Statements	Game Plan Artifact	Envisioning, ADS, Game Planning		One or more statements clearly articulating the essential problem(s) that the milestone must address to be declared a success.  Uses implementation-free, non-ambiguous language that minimizes potential for different interpretations.
+## Footnotes
 
-Success Criteria (engagement)	Game Plan Artifact	Envisioning, ADS, Game Planning		Statements that must be true by the close of the engagement in order for the engagement to be considered as a "success".  Includes "success" as defined by the customer as well as Microsoft (i.e., meeting CSE standards for quality engineering that can be successfully handed over to customer engineers).  Success criteria also include any customer-imposed technical, time or procedural constraints that must be observed in planning and executing the project.
+<a href="#smart">1</a>: Atlasssian: [How to Write SMART goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals)
 
-Definition of Done (milestone)	Game Plan Artifact	Envisioning, ADS, Game Planning		SMART criteria considered as essential to achieve a "minimum viable product" in the current milestone.  These will be derived from the success criteria for the engagement and often include specific measurable targets to ensure that MVP engineering requirements are fulfilled.
-
-Risk Register*	Game Plan Artifact	Envisioning, ADS, Game Planning		Continually updated and prioritized list of risks that should be monitored and managed to ensure that the agreed scope of work (definition of done, success criteria) can be fulfilled within the anticipated time and resource constraints.  Also includes intangible and indirect risks such as those related to customer relationship/trust building and potential for follow-on engagement(s) with the account.  In addition to a continually-updated list of risks, the Risk Register should indicate the likelihood, severity and mitigation approach specific to each risk.
-
-MVP Backlog: Epics	Game Plan Artifact	ADS, Game Planning		High-level solution elements act as containers for user stories.  Each epic should define a cluster of functional and non-functional capabilities that are required to enable a full end-to-end sub-scenario or functional sub-component that is part of the MVP.
-
-MVP Backlog: User Stories	Game Plan Artifact	ADS, Game Planning		User stories that capture the key use cases for the epic under which they fall.  Although high-level, user stories are precise with regard to target persona ("As a..."), the general insight or activity that the story enables ("...I can..."), and the benefit that the insight or activity should deliver for the persona (..."so that...").
-
-Stakeholder Management	Team Activity	Game Planing, Sprints		
-
-Risk Management*	Team Activity	Game Planing, Sprints		
-
-Backlog Grooming	Team Activity	Game Planing, Sprints		Adding, breaking down/combining user stories, detailing and stack ranking user stories.
-
-Sprint/Milestone Reviews	Team Activity	Sprints	P	Under Kanban, may not be a "sprint" per se, but a chosen cadence.
-
-Sprint/Milestone Retrospectives	Team Activity	Sprints	P	Under Kanban, may not be a "sprint" per se, but a chosen cadence.
- 				
-Product Feedback	Project Closeout Artifact	Sprints		Consider dropping:  if it's short, the team should just do it; if it's longer, it's a story and the PO will get it into the backlog and treat it like any other story
-
-Sharing & Reuse Plan	Project Closeout Artifact	Sprints		Consider dropping:  if it's short, the team should just do it; if it's longer, it's a story and the PO will get it into the backlog and treat it like any other story
-
-Engineering Playbook Contributions	Project Closeout Artifact	Sprints		
-Consider dropping:  if it's short, the team should just do it; if it's longer, it's a story and the PO will get it into the backlog and treat it like any other story
+<a href="#mvp">2</a>: https://en.wikipedia.org/wiki/Minimum_viable_product
