@@ -38,7 +38,7 @@ The following sections discuss some of the options.
 
 ### Customer as Product Owner
 
-While customers often have someone in a Product Owners or equivalent (e.g. Product Manager) role, it still usually makes sense for a CSE person to fill the PO role within the context of the CSE project.
+While customers often have someone in a Product Owner or equivalent (e.g. Product Manager) role, it still usually makes sense for a CSE person to fill the PO role within the context of the CSE project.
 
 Customer POs are usually focused on a much longer term perspective, and they struggle to narrow their focus to the scope of the CSE engagement. 
 
