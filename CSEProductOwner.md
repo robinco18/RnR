@@ -36,7 +36,7 @@ A key point, however, is that a PO is always required, and it should be a  **sin
 
 The following sections discuss some of the options.
 
-### Customer as Product Owner from the Customer
+### Customer as Product Owner
 
 While customers often have someone in a Product Owners or equivalent (e.g. Product Manager) role, it still usually makes sense for a CSE person to fill the PO role within the context of the CSE project.
 
