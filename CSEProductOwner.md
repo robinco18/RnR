@@ -6,11 +6,9 @@ In addition, CSE has a unique business model in which we collaboratively defined
 
 This page summarizes how Product Onwership is tailored to fit the CSE business model.
 
-## Table of Contents
-
+**Table of Contents:**
 <!-- TOC -->
 
-- [Table of Contents](#table-of-contents)
 - [Accountability vs. Responsibility](#accountability-vs-responsibility)
 - [Who fills the Product Owner role on a CSE project?](#who-fills-the-product-owner-role-on-a-cse-project)
   - [Customer as Product Owner](#customer-as-product-owner)
@@ -198,7 +196,7 @@ And when a new PO takes full responsibility for the first time, we will arrange 
 
 ## Footnotes
 
-<a name="raci">1</a>: How to Clear Project Confusion with...RACI(https://www.teamgantt.com/blog/raci-chart-definition-tips-and-example)
+<a name="raci">1</a>: [How to Clear Project Confusion with RACI](https://www.teamgantt.com/blog/raci-chart-definition-tips-and-example)
 
 <a name="smart">2</a>: Atlasssian: [How to Write SMART goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals)
 
