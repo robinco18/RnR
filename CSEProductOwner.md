@@ -6,6 +6,34 @@ In addition, CSE has a unique business model in which we collaboratively defined
 
 This page summarizes how Product Onwership is tailored to fit the CSE business model.
 
+## Table of Contents
+
+<!-- TOC -->
+
+- [Table of Contents](#table-of-contents)
+- [Accountability vs. Responsibility](#accountability-vs-responsibility)
+- [Who fills the Product Owner role on a CSE project?](#who-fills-the-product-owner-role-on-a-cse-project)
+  - [Customer as Product Owner](#customer-as-product-owner)
+  - [TPM as Product Owner](#tpm-as-product-owner)
+  - [CTE SEI/PM as Product Owner](#cte-seipm-as-product-owner)
+  - [Developer as Product Owner](#developer-as-product-owner)
+- [Project Definition](#project-definition)
+- [Backlog Management](#backlog-management)
+  - [Minimum Viable Product (MVP)](#minimum-viable-product-mvp)
+  - [Implementation Free User Stories](#implementation-free-user-stories)
+  - [Collaborative Backlog Management](#collaborative-backlog-management)
+- [Identifying key stakeholders and influencers](#identifying-key-stakeholders-and-influencers)
+- [Risk Management](#risk-management)
+- [Frequently Asked Questions](#frequently-asked-questions)
+  - [CSE works on short-term projects with customers, not full commerical products, so why do we need a "Product Owner"?](#cse-works-on-short-term-projects-with-customers-not-full-commerical-products-so-why-do-we-need-a-product-owner)
+  - [How can a CSE person be the PO if the customer has a PO with all the expertise, etc.?](#how-can-a-cse-person-be-the-po-if-the-customer-has-a-po-with-all-the-expertise-etc)
+  - [How can it make sense for someone from CSE to act as a product owner for a product that is actually owned by a customer?](#how-can-it-make-sense-for-someone-from-cse-to-act-as-a-product-owner-for-a-product-that-is-actually-owned-by-a-customer)
+  - [Who is the best person to act as Product Owner on a CSE engagement?](#who-is-the-best-person-to-act-as-product-owner-on-a-cse-engagement)
+  - [How do I learn how to be a good Product Owner?](#how-do-i-learn-how-to-be-a-good-product-owner)
+- [Footnotes](#footnotes)
+
+<!-- /TOC -->
+
 ## Accountability vs. Responsibility
 
 Here is a nice summary of the RACI framework:<sup>[1](#raci)</sup>
@@ -140,33 +168,33 @@ The PO should also identify intangible and indirect risks such as those related 
 
 ## Frequently Asked Questions
 
-* **CSE works on short-term projects with customers, not full commerical products, so why do we need a "Product Owner"?**
+### CSE works on short-term projects with customers, not full commerical products, so why do we need a "Product Owner"?
 
-  The term "Product Owner" describes an *role* within a Scrum team that is working on any project, large or small. A PO's responsibilities are very clear for every engineering project.
+The term "Product Owner" describes an *role* within a Scrum team that is working on any project, large or small. A PO's responsibilities are very clear for every engineering project.
 
-* **How can a CSE person be the PO if the customer has a PO with all the expertise, etc.?**
+### How can a CSE person be the PO if the customer has a PO with all the expertise, etc.?
 
-  The CSE PO does not replace or substitute for the customer PO. Rather the CSE PO works in the context of the CSE engagement with the CSE engineers as their primary audience
+The CSE PO does not replace or substitute for the customer PO. Rather the CSE PO works in the context of the CSE engagement with the CSE engineers as their primary audience
 
-* **How can it make sense for someone from CSE to act as a product owner for a product that is actually owned by a customer?**
+### How can it make sense for someone from CSE to act as a product owner for a product that is actually owned by a customer?
 
-  CSE Product Owners limit their focus the immediate engagement with the customer and do not even attempt to focus on the customer's broader products and services.
+CSE Product Owners limit their focus the immediate engagement with the customer and do not even attempt to focus on the customer's broader products and services.
 
-  In addition, CSE product owners are trained to understand the unique characteristics and requirements of a CSE engagement, and that knowledge very much influences how the job is done. For example, CSE POs understand what it means to draft problem statements, define customer and CSE success criteria, what sorts of engineering fundamentals need to be included in CSE projects, etc. 
+In addition, CSE product owners are trained to understand the unique characteristics and requirements of a CSE engagement, and that knowledge very much influences how the job is done. For example, CSE POs understand what it means to draft problem statements, define customer and CSE success criteria, what sorts of engineering fundamentals need to be included in CSE projects, etc. 
 
-* **Who is the best person to act as Product Owner on a CSE engagement?**
+### Who is the best person to act as Product Owner on a CSE engagement?
 
-  Product Ownership is a core expertise for the Dev Crews Technical PM team, and most TPMs have many years of experience working as POs. For this reason, TPMs are usually the best choice *if one is available.*
+Product Ownership is a core expertise for the Dev Crews Technical PM team, and most TPMs have many years of experience working as POs. For this reason, TPMs are usually the best choice *if one is available.*
 
-  CTE SEIs and PMs with the right skillset are also good choices, and in a pinch dev crews can nominate one of their own developers to fill the role.
+CTE SEIs and PMs with the right skillset are also good choices, and in a pinch dev crews can nominate one of their own developers to fill the role.
 
-* **How do I learn how to be a good Product Owner?**
+### How do I learn how to be a good Product Owner?
 
-  The best way to learn anything is to do it, and CSE's strategy for training POs is to provide real-world opportunities to perform the role.
+The best way to learn anything is to do it, and CSE's strategy for training POs is to provide real-world opportunities to perform the role.
 
-  To minimize risk and maximize learning, our preferred approach is for aspiring POs to shadow an experienced PO on a real engagement.
+To minimize risk and maximize learning, our preferred approach is for aspiring POs to shadow an experienced PO on a real engagement.
   
-  And when a new PO takes full responsibility for the first time, we will arrange for an experienced PO to be avaiable to coach.
+And when a new PO takes full responsibility for the first time, we will arrange for an experienced PO to be avaiable to coach.
 
 ## Footnotes
 
