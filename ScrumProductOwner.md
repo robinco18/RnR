@@ -2,8 +2,12 @@
 
 ## Understanding the PO role
 
-A great way to get a feel for the Product Owner role is to read summaries from knowledgeable sources. Here is a curated list for your reading enjoyment:
+A great way to get a feel for the Product Owner role is to consume summaries from knowledgeable sources. Here is a curated list for your learning enjoyment:
 
+### Videos
+* **MUST WATCH:** [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE) 
+
+### Aritcles
 * [Scrum Guide: The Product Owner](https://www.scrumguides.org/scrum-guide.html#team-po)
 * [Mountain Goat Software: Product Owner](https://www.mountaingoatsoftware.com/agile/scrum/roles/product-owner)
 * [The Role of a Product Owner: Responsibilities & Characteristics](https://www.frontrowagile.com/blog/posts/74-the-role-of-a-product-owner-responsibilities-and-characteristics)
