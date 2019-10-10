@@ -11,7 +11,7 @@ Project roles:
 
 The Tech Lead, PO, and Scrum Master should be different people who collaborate to lead and execute the project, as shown in the following diagram.
 
-![Scrum Roles Collaboration](Images/Scrum Venn Chart.png)
+![Scrum Roles Collaboration](Images/ScrumVennChart.png)
 
 ## Scrum in CSE
 
