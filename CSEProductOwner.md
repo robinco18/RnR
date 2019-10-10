@@ -60,15 +60,17 @@ The answer is simple: **It can be *anyone* with the skills and time to do the jo
 
 A key point, however, is that a PO is always required, and it should be a  **single person**. PO is not a role for a committee, and it's not a role that can just be ignored.
 
+>That said, it is OK for a PO to delegate certain responsibilities to others, but the PO is ultimately accountable for assuring everything is getting done properly.
+
 The following sections discuss some of the options.
 
 ### Customer as Product Owner
 
-While customers often have someone in a Product Owner or equivalent (e.g. Product Manager) role, it still usually makes sense for a CSE person to fill the PO role within the context of the CSE project.
+While customers often have someone in a Product Owner or equivalent (e.g. Product Manager) role, it usually makes sense for a CSE person to fill the PO role within the context of the CSE project.
 
-Customer POs are usually focused on a much longer term perspective, and they struggle to narrow their focus to the scope of the CSE engagement. 
+Customer POs are usually focused on a much longer-term perspective, and they struggle to narrow their focus to the scope of the CSE engagement.
 
-In addition, customer POs are not familiar with internal CSE expectations related to CSE engineering practices (e.g. problem statements, success criteria, CSE-style Scrum, one week sprints, etc.), engineering fundamentals,sharing, etc.
+In addition, customer POs are not familiar with internal CSE expectations related to CSE engineering practices (e.g. problem statements, success criteria, CSE-style Scrum, one week sprints, etc.), engineering fundamentals, sharing, etc.
 
 That said the team should decide, and it's fine for someone from the customer to fill the PO role if it makes sense.
 
@@ -96,13 +98,13 @@ The most critical role for the Product Owner is assuring the project is appropri
 
 The Product Owner is accountable for the following items, which must be included in the project Game Plan:
 
-* **Problem Statement(s):** One or more statements clearly articulating the essential problem(s) that the milestone must address to be declared a success. Uses implementation-free, non-ambiguous language that minimizes potential for different interpretations.
+- **Problem Statement(s):** One or more statements clearly articulating the essential problem(s) that the milestone must address to be declared a success. Uses implementation-free, non-ambiguous language that minimizes potential for different interpretations.
 
-* **Customer Success Criteria:** Statements that must be true by the close of the engagement in order for the engagement to be considered a success from the customer's perspective. Success criteria typcially includes  capabilities that solve the problem statement, and it my include  customer-imposed technical, time or procedural constraints that must be observed in planning and executing the project.
+- **Customer Success Criteria:** Statements that must be true by the close of the engagement in order for the engagement to be considered a success from the customer's perspective. Success criteria typcially includes  capabilities that solve the problem statement, and it my include  customer-imposed technical, time or procedural constraints that must be observed in planning and executing the project.
 
-* **CSE Success Criteria:** In addition to customer success criteria, CSE also has a standard set of success criteria that should be included with every project. These include CSE engineering fundamentals, sharing learning and resusable code, and any making appropriate contributions to the CSE Engineering Playbook.
+- **CSE Success Criteria:** In addition to customer success criteria, CSE also has a standard set of success criteria that should be included with every project. These include CSE engineering fundamentals, sharing learning and resusable code, and any making appropriate contributions to the CSE Engineering Playbook.
 
-* **Definition of Done:** SMART<sup>[2](#smart)</sup> criteria considered as essential to achieve a "minimum viable product" in the current milestone. These will be derived from the success criteria for the engagement and often include specific measurable targets to ensure that MVP engineering requirements are fulfilled.
+- **Definition of Done:** SMART<sup>[2](#smart)</sup> criteria considered as essential to achieve a "minimum viable product" in the current milestone. These will be derived from the success criteria for the engagement and often include specific measurable targets to ensure that MVP engineering requirements are fulfilled.
 
 ## Backlog Management
 
@@ -132,11 +134,11 @@ Keeping stories implementation free can be very challenging, as requirements are
 
 Successful backlog creation and management requires substantial collaboration with the developers. A good practice is to review and groom the backlog collaboratively. Successful collaboration approaches include:
 
-* Product Owner and Tech Lead review and edit the backlog together.
+- Product Owner and Tech Lead review and edit the backlog together.
 
-* Product Owner edits backlog collaboratively with the developers responsible for implementing the stories being reviewed.
+- Product Owner edits backlog collaboratively with the developers responsible for implementing the stories being reviewed.
 
-* Product Owner leads a group backlog grooming session with the full team, which enables broad and inclusive discussion, and helps drive better understanding and awareness across the project.
+- Product Owner leads a group backlog grooming session with the full team, which enables broad and inclusive discussion, and helps drive better understanding and awareness across the project.
 
 All methods can be used on the same project.
 
@@ -144,19 +146,19 @@ All methods can be used on the same project.
 
 Scrum Product Owners are always expected to identify key stakeholders and influencers. In CSE, this means:
 
-* Customer engineering leaders and engineers.
+- Customer engineering leaders and engineers.
 
-* Customer executives who are sponsoring the engineering team with whom we are collaborating.
+- Customer executives who are sponsoring the engineering team with whom we are collaborating.
 
-* Other customer teams/individuals who can impact successful completion of the project. For example, many customers have central cloud IT teams that control access to Azure subscriptions or the creation of Service Principle Names (SPNs), or security and compliance teams that must approve archiecture and/or production deployments.
+- Other customer teams/individuals who can impact successful completion of the project. For example, many customers have central cloud IT teams that control access to Azure subscriptions or the creation of Service Principle Names (SPNs), or security and compliance teams that must approve archiecture and/or production deployments.
 
-* CSE stakeholders from CTE, including the on-point SE/I, SE/I lead and industry team leaders.
+- CSE stakeholders from CTE, including the on-point SE/I, SE/I lead and industry team leaders.
 
-* Dev Crews stakeholders, including the Tech Lead, developers and TPM(s) from both general purpose teams, Tech Domain teams, and shared services teams (e.g. Machine Leaerning, DevOps).
+- Dev Crews stakeholders, including the Tech Lead, developers and TPM(s) from both general purpose teams, Tech Domain teams, and shared services teams (e.g. Machine Leaerning, DevOps).
 
-* Account team contacts and roles. Every customer has a unique mix of account team stakeholders with a variety of skillsets, and it's important to identify the role each account team member fills with the customer.
+- Account team contacts and roles. Every customer has a unique mix of account team stakeholders with a variety of skillsets, and it's important to identify the role each account team member fills with the customer.
 
-* Relevant contacts from the Azure product teams and other Azure teams, such as Azure Global.
+- Relevant contacts from the Azure product teams and other Azure teams, such as Azure Global.
 
 ## Risk Management
 
@@ -178,7 +180,7 @@ The CSE PO does not replace or substitute for the customer PO. Rather the CSE PO
 
 CSE Product Owners limit their focus the immediate engagement with the customer and do not even attempt to focus on the customer's broader products and services.
 
-In addition, CSE product owners are trained to understand the unique characteristics and requirements of a CSE engagement, and that knowledge very much influences how the job is done. For example, CSE POs understand what it means to draft problem statements, define customer and CSE success criteria, what sorts of engineering fundamentals need to be included in CSE projects, etc. 
+In addition, CSE product owners are trained to understand the unique characteristics and requirements of a CSE engagement, and that knowledge very much influences how the job is done. For example, CSE POs understand what it means to draft problem statements, define customer and CSE success criteria, what sorts of engineering fundamentals need to be included in CSE projects, etc.
 
 ### Who is the best person to act as Product Owner on a CSE engagement?
 

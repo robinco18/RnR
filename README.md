@@ -9,11 +9,16 @@ Project roles:
 * [Devlopment Team](./DevelopmentTeam.md) (Scrum role)
 * [Scrum Master](./ScrumMaster.md) (Scrum role)
 
+The Tech Lead, PO, and Scrum Master should be different people who collaborate to lead and execute the project, as shown in the following diagram.
+
+![Scrum Roles Collaboration](Images/Scrum Venn Chart.png)
+
 ## Scrum in CSE
 
 Scrum is the most widely-known agile software engineering process, which makes is a great fit for CSE's globally distributed org, as well as our customer engagement model. Following a well-known process, for which innumberable books, blogs and training courses are available, makes it much easier for engineers from multiple teams and companies to form and quickly become productive.
 
 ## Scrum Reference
+
 Scrum was first defined as a formal software engineering process in 1995 by Jeff Sutherland and Ken Schwaber.<sup>[1](#history)</sup> Sutherland and Schwaber have been actively speaking and writing about Scrum ever since.
 
 Of particular note is [The Scrum Guide](https://www.scrum.org/resources/scrum-guide), a freely available document (published under a Creative Commons license.<sup>[2](#license)</sup>), which is described by Sutherland & Schwaber as the official definition of Srum: 
