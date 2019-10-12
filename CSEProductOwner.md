@@ -10,6 +10,7 @@ This page summarizes how Product Onwership is tailored to fit the CSE business m
 <!-- TOC -->
 
 - [Accountability vs. Responsibility](#accountability-vs-responsibility)
+- [Product Owner Accountabilities](#product-owner-accountabilities)
 - [Who fills the Product Owner role on a CSE project?](#who-fills-the-product-owner-role-on-a-cse-project)
   - [Customer as Product Owner](#customer-as-product-owner)
   - [TPM as Product Owner](#tpm-as-product-owner)
@@ -51,6 +52,10 @@ In short, the person who does the work is responsible, and the person that assur
 In other words, *the Product Owner is accountable* for assuring that all PO-related work is completed, even if the PO doesn't do all the work themselves.
 
 Thus, the PO need not always write the backlog stories, identify all the risks, or create a CSE sharing plan, but the PO is accountable for making sure all these things are both done and done correctly.
+
+## Product Owner Accountabilities
+
+Summary of [CSE Product Owner Accountabilities](./POAccountabilities.md)
 
 ## Who fills the Product Owner role on a CSE project?
 
