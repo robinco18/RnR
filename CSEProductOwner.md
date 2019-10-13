@@ -2,7 +2,7 @@
 
 CSE uses Scrum as its software engineering process, and a CSE Product Owner fullfills all of the normal Scrum Product Owner responsibilities.
 
-In addition, CSE has a unique business model in which we collaboratively defined and execute projects with a wide range of customers, and we've developed a standard set of artifacts, best practices and terminology to support this model.
+In addition, CSE has a unique business model in which we collaboratively define and execute projects with a wide range of customers, and we've developed a standard set of artifacts, best practices and terminology to support this model.
 
 This page summarizes how Product Onwership is tailored to fit the CSE business model.
 
@@ -35,13 +35,13 @@ This page summarizes how Product Onwership is tailored to fit the CSE business m
 
 ## Accountability vs. Responsibility
 
-Here is a nice summary of the RACI framework:<sup>[1](#raci)</sup>
+Here is a summary of the RACI framework:<sup>[1](#raci)</sup>
 
 >## RACI definitions
 >
->**Responsible:** This team member does the work to complete the task. Every task needs at least one Responsible party, but it’s okay to assign more.
+>**Responsible:** This team member does the work to complete the task. Every task needs at least one Responsible party, but it’s okay to assign more. <RGC: i might suggest best practice says only 1 person should ever be responsible- that way there is no confusion about who is responsible for the task>
 >
->**Accountable:** This person delegates work and is the last one to review the task or deliverable before it’s deemed complete. On some tasks, the Responsible party may also serve as the Accountable one. Just be sure you only have one Accountable person assigned to each task or deliverable. (Note: It might not be your PM!)
+>**Accountable:** This person is accountable for the work getting done in a quality driven way, and/or, in the way agreed upon. They are essentially responsible for reviewing the task or deliverable before it’s deemed complete. On some tasks, the Responsible party may also serve as the Accountable one. Just be sure you only have one Accountable person assigned to each task or deliverable. (Note: It might not be your PM!)
 >
 >**Consulted:** Every deliverable is strengthened by review and consultation from more than one team member. Consulted parties are typically the people who provide input based on either how it will impact their future project work or their domain of expertise on the deliverable itself.
 >
@@ -59,11 +59,11 @@ Summary of [CSE Product Owner Accountabilities](./POAccountabilities.md)
 
 ## Who fills the Product Owner role on a CSE project?
 
-There is often confusion about who the Product Owner should be on a CSE engagment/project. Should it be someone form the customer, an SEI or PM from CTE, a Dev Crews TPM, or perhaps a developer or tech lead?
+There is often confusion about who the Product Owner should be on a CSE engagment/project. Should it be someone from the customer, an SEI or PM from CTE, a Dev Crew TPM, or perhaps a developer or tech lead?
 
-The answer is simple: **It can be *anyone* with the skills and time to do the job.**
+The answer we are propsing by standardizing on the PO role and responsibilities is that is should be the SEI when a DC is engaged. The SEI can partner with other members of the Engagement Team to have the PO role performed by another person on the engagement team, but it is the SEI who is responsible for perfoming the PO role or landing that responsibility in an agreed upon way with another qualified person on the Engagement Team.
 
-A key point, however, is that a PO is always required, and it should be a  **single person**. PO is not a role for a committee, and it's not a role that can just be ignored.
+A key point, however, is that a PO is always required, and it should be a  **single person**. 
 
 >That said, it is OK for a PO to delegate certain responsibilities to others, but the PO is ultimately accountable for assuring everything is getting done properly.
 
